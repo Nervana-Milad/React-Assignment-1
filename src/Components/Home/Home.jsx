@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <section className="bg-[#1abc9cd5] pt-[7rem]">
+      <section className="bg-[#1abc9c] pt-[7rem]">
         <div className="container p-10">
           <div className="flex justify-center pb-5">
             <img
